@@ -1,9 +1,9 @@
-# Call for Papers - ML Systems Workshop @ NIPS 2017
-We invite participation in the ML Systems Workshop which will be held in conjunction with NIPS 2017 on December 8, 2017 in Long Beach, California.
+# Call for Papers - Systems for ML Workshop @ NIPS 2018
+We invite participation in the Systems for ML Workshop which will be held in conjunction with NIPS 2018. Date TBA.
 
 ## Overview
 
-The goal of this workshop is to bring together experts working at the crossroads of machine learning, system design and software engineering to explore the challenges faced when building practical large-scale ML systems. In particular, we aim to elicit new connections among these fields, and identify tools, best practices and design principles. The workshop will cover ML and AI platforms and algorithm toolkits (Caffe 2.0, Tensor Flow, Torch etc), as well as dive into ML focused developments in various systems topics.
+The goal of this workshop is to bring together experts working at the crossroads of machine learning, system design and software engineering to explore the challenges faced when building practical large-scale ML systems. In particular, we aim to elicit new connections among these fields, and identify tools, best practices and design principles. The workshop will cover ML and AI platforms and algorithm toolkits (Caffe2, TensorFlow, PyTorch etc), as well as dive into ML focused developments in various systems topics.
  
 We welcome high quality submissions in the broad area of large scale systems and software design for machine learning.   A few (non-exhaustive) topics of interest include:
 * Systems for training and serving machine learning models at scale
@@ -14,22 +14,39 @@ We welcome high quality submissions in the broad area of large scale systems and
 * Database systems for large scale learning
 * Advances in specialized hardware (GPU, FPGA, ASIC) for training and serving
 * Programming languages for machine learning
-* Machine learning system design -- learning for job scheduling, configuration tuning, straggler mitigation, network configuration, security, and other systems challenges
 * Interactive machine learning systems
 * Benchmarking systems (for machine learning algorithms)
- 
+
 Through invited talks as well as oral and poster presentations by the participants, this workshop will showcase the latest advances in machine learning systems and address challenges at the intersection of machine learning and system design.
+
+*This year, the Systems for ML workshop will be part of a two day workshop series on ML and Systems. In conjunction with this workshop, there will be a workshop on ML for Systems.
+Work on machine learning for system design (e.g. learning for job scheduling, configuration tuning, database query optimization) is better suited for submission to that workshop.
+See their Call for Papers for more details.*
+
 ## Submission Instructions
-We welcome submissions of up to 6 pages (not including references).
-* All submissions must be in PDF format and should follow the NIPS 2017 format: https://nips.cc/Conferences/2017/PaperInformation/StyleFiles
+We welcome two kinds of submissions, poster abstracts and short papers.
+
+
+__Poster Abstracts__
+
+Poster abstracts can be up to 2 pages long (not including references). All accepted poster abstracts will be expected to present
+a poster at the workshop. However, submissions in this format will not be considered for an oral presentation.
+
+__Short Papers__
+
+Short papers can be up to 6 pages (not including references). Accepted short papers will be expected to present a poster at the workshop.
+In addition, a small number of short papers will be selected for an oral presentation at the workshop.
+
+* All submissions must be in PDF format and should follow the NIPS 2018 format: https://nips.cc/Conferences/2018/PaperInformation/StyleFiles
 * Submissions do not have to be anonymized
-* Please submit your paper no later than October 25, 2017 using CMT: [submission link](https://urldefense.proofpoint.com/v2/url?u=https-3A__cmt3.research.microsoft.com_MLSYS2017&d=DwIGaQ&c=5VD0RTtNlTh3ycd41b3MUw&r=jkIV1ekX5UbLBHAbbnf20g&m=etgua9_RnubL9Pqqvt1clQTBkpIIR-Vt5dTgaC6j4ms&s=dC7lpB-28jMCa3cCHP7rUptXynWKKDDxCyp-cz5--Eg&e=)
+* Please submit your paper no later than TBA using CMT: *Link coming soon.*
+
 
 ## Important Dates
-* Submission Deadline **EXTENDED**: October 25, 2017, 11.59pm PST
-* Acceptance Notifications: **EXTENDED* November 9, 2017
-* Final File Upload: November 27, 2017
-* Workshop: December 8, 2017
+* Submission Deadline: TBA 
+* Acceptance Notifications: TBA
+* Final File Upload: TBA
+* Workshop: TBA
 
 ## Contact Us
 Contact us at ai-systems-workshop-2017@googlegroups.com 
