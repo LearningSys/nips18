@@ -7,15 +7,14 @@ The goal of this workshop is to bring together experts working at the crossroads
  
 We welcome high quality submissions in the broad area of large scale systems and software design for machine learning.   A few (non-exhaustive) topics of interest include:
 * Systems for training and serving machine learning models at scale
-* Systems for online and batch learning algorithms
-* Systems for out-of-core machine learning
-* Systems for scalable deep learning
-* Large scale distributed learning algorithms -- challenges faced and lessons learned
+* Systems for online and interactive learning algorithms
+* Large scale distributed learning algorithms in practice
 * Database systems for large scale learning
-* Advances in specialized hardware (GPU, FPGA, ASIC) for training and serving
+* Specialized or custom hardware for machine learning
 * Programming languages for machine learning
-* Interactive machine learning systems
 * Benchmarking systems (for machine learning algorithms)
+* Model understanding tools (debugging, visualization, introspection, etc).
+* Systems for collecting, preparing, and managing machine learning data
 
 Through invited talks as well as oral and poster presentations by the participants, this workshop will showcase the latest advances in machine learning systems and address challenges at the intersection of machine learning and system design.
 
