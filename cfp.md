@@ -1,5 +1,5 @@
 # Call for Papers - Systems for ML Workshop @ NIPS 2018
-We invite participation in the Systems for ML Workshop which will be held in conjunction with NIPS 2018. Date: 7 December 2018.
+We invite participation in the Systems for ML Workshop which will be held in conjunction with NIPS 2018. Date: December 7, 2018.
 
 ## Overview
 
