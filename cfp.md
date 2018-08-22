@@ -1,5 +1,5 @@
 # Call for Papers - Systems for ML Workshop @ NIPS 2018
-We invite participation in the Systems for ML Workshop which will be held in conjunction with NIPS 2018. Date TBA.
+We invite participation in the Systems for ML Workshop which will be held in conjunction with NIPS 2018. Date: December 7, 2018.
 
 ## Overview
 
@@ -42,10 +42,10 @@ In addition, a small number of short papers will be selected for an oral present
 
 
 ## Important Dates
-* Submission Deadline: TBA 
-* Acceptance Notifications: TBA
+* Submission Deadline: October 19, 2018 
+* Acceptance Notifications: November 9, 2018
 * Final File Upload: TBA
-* Workshop: TBA
+* Workshop: December 7, 2018
 
 ## Contact Us
 Contact us at ai-systems-workshop-2017@googlegroups.com 
