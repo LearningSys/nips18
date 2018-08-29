@@ -36,9 +36,9 @@ __Short Papers__
 Short papers can be up to 6 pages (not including references). Accepted short papers will be expected to present a poster at the workshop.
 In addition, a small number of short papers will be selected for an oral presentation at the workshop.
 
-* All submissions must be in PDF format and should follow the NIPS 2018 format: https://nips.cc/Conferences/2018/PaperInformation/StyleFiles
+* All submissions must be in PDF format and should follow the [NIPS 2018 format](https://nips.cc/Conferences/2018/PaperInformation/StyleFiles)
 * Submissions do not have to be anonymized
-* Please submit your paper no later than TBA using CMT: https://cmt3.research.microsoft.com/MLSYS2018
+* Please submit your paper using CMT: [Submission link](https://cmt3.research.microsoft.com/MLSYS2018)
 
 
 ## Important Dates
