@@ -14,7 +14,7 @@ We invite participation in the Systems for ML Workshop which will be held in con
 
 * **Submission Deadline:** October 19, 2018
 * **Author Notification Deadline:** November 9, 2018
-* **Submission Details:** [See the CFP](/cfp)
+* **Submission Details:** [See the CFP](/nips18/cfp.html)
 
 
 ## Organizing Committee
