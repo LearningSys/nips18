@@ -12,7 +12,7 @@ This workshop will follow the successful model we have previously run with the M
 
 We invite participation in the Systems for ML Workshop which will be held in conjunction with NIPS 2018 in Montreal, Canada.
 
-* **Submission Deadline:** October 19, 2018
+* **Submission Deadline:** October 19, 2018 11.59pm PST
 * **Author Notification Deadline:** November 9, 2018
 * **Submission Details:** [See the CFP](/nips18/cfp.html)
 
