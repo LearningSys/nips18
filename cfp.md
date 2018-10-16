@@ -37,7 +37,7 @@ Short papers can be up to 6 pages (not including references). Accepted short pap
 In addition, a small number of short papers will be selected for an oral presentation at the workshop.
 
 * All submissions must be in PDF format and should follow the [NIPS 2018 format](https://nips.cc/Conferences/2018/PaperInformation/StyleFiles)
-* Submissions do not have to be anonymized
+* Submissions do not have to be anonymized (use the <p><code><span>\usepackage[preprint]{nips_2018}</span></code></p> option)
 * Please submit your paper using CMT: [Submission link](https://cmt3.research.microsoft.com/MLSYS2018)
 
 
