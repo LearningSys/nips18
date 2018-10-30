@@ -13,7 +13,7 @@ This workshop will follow the successful model we have previously run with the M
 We invite participation in the Systems for ML Workshop which will be held in conjunction with NIPS 2018 in Montreal, Canada.
 
 * **Submission Deadline:** October 19, 2018 11.59pm PST
-* **Author Notification Deadline:** November 9, 2018
+* **Author Notification Deadline:** ~~November 9, 2018~~ November 12, 2018
 * **Submission Details:** [See the CFP](/nips18/cfp.html)
 
 
@@ -24,3 +24,32 @@ We invite participation in the Systems for ML Workshop which will be held in con
 + Aparna Lakshmiratan, Facebook, <aparnal@fb.com>
 + Siddhartha Sen, Microsoft Research, <sidsen@microsoft.com>
 
+## Program Committee
+
++ Aparna Lakshmi Ratan - *Facebook AI*
++ Andrew Tulloch - *Facebook*
++ Junchen Jiang - *University of Chicago*
++ Dan Alistarh - *IST Austria*
++ Asim Kadav - *NEC Labs*
++ Haoyu Zhang - *Princeton University*
++ Riley Spahn - *Columbia University*
++ Christopher Ré - *Stanford*
++ Yangqing Jia - *Facebook*
++ Jinyang Li - *New York University*
++ Aish Fenton - *Netflix*
++ Mihir Nanavati - *Microsoft Research*
++ Mathias Lécuyer - *Columbia University*
++ Shivaram Venkataraman - *University of Wisconsin–Madison*
++ Garth Gibson - *Vector Institute*
++ Vladimir Feinberg - *Sisu Data*
++ François Belletti - *Google*
++ Jason Gauci - *Facebook*
++ Joseph Bradley - *Databricks*
++ Robert Nishihara - *University of California, Berkeley*
++ Daniel Lo - *Microsoft*
++ Joshua Lockerman - *Yale University*
++ Aurojit Panda - *New York University*
++ Sarah Bird - *Facebook AI*
++ Dan Crankshaw - *University of California, Berkeley*
++ Joseph Gonzalez - *University of California, Berkeley*
++ Jacob Nelson - *Microsoft*
