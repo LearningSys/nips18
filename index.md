@@ -33,7 +33,7 @@ We invite participation in the Systems for ML Workshop which will be held in con
 + Asim Kadav - *NEC Labs*
 + Haoyu Zhang - *Princeton University*
 + Riley Spahn - *Columbia University*
-+ Christopher Ré - *Stanford*
++ Christopher Ré - *Stanford University*
 + Yangqing Jia - *Facebook*
 + Jinyang Li - *New York University*
 + Aish Fenton - *Netflix*
