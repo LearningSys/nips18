@@ -54,3 +54,4 @@ We invite participation in the Systems for ML Workshop which will be held in con
 + Joseph Gonzalez - *University of California, Berkeley*
 + Jacob Nelson - *Microsoft*
 + Zachary DeVito - *Facebook*
++ Alex Ratner - *Stanford University*
