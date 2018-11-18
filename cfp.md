@@ -44,7 +44,7 @@ In addition, a small number of short papers will be selected for an oral present
 ## Important Dates
 * Submission Deadline: October 19, 2018 11.59pm PST
 * Acceptance Notifications: November 9, 2018
-* Final File Upload: TBA
+* Final File Upload: December 1, 2018
 * Workshop: December 7, 2018
 
 ## Contact Us
