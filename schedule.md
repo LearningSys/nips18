@@ -1,12 +1,12 @@
 # Schedule 
 
-9:00 - 9:10 &nbsp;&nbsp;&nbsp;    Opening remarks (Sarah Bird)
+09:00 - 09:10 &nbsp;&nbsp;&nbsp;    Opening remarks (Sarah Bird)
 
 ### Session 1: ML Programmability (Chair: Sarah Bird)
 
-9:10 - 9:40 &nbsp;&nbsp;&nbsp;     Keynote 1: TBD, Bryan Catanzaro, NVIDIA
+09:10 - 09:40 &nbsp;&nbsp;&nbsp;     Keynote 1: TBD, Bryan Catanzaro, NVIDIA
 
-9:40 - 10:00 &nbsp;&nbsp;&nbsp;     Contributed Talk: Fashionable Modeling with Flux, Mike J. Innes, Julia Computing
+09:40 - 10:00 &nbsp;&nbsp;&nbsp;     Contributed Talk: Fashionable Modeling with Flux, Mike J. Innes, Julia Computing
 
 10:00 - 10:20 &nbsp;&nbsp;&nbsp;     Contributed Talk: Model Assertions for Debugging Machine Learning, Daniel Kang, Stanford University
 
@@ -32,7 +32,7 @@
 
 12:30 - 12:45 &nbsp;&nbsp;&nbsp;    Pick up lunch. **The workshop will be providing catered lunch.**
 
-12:50 - 2:55 &nbsp;&nbsp;&nbsp; Open Source Software Showcase (10 minutes each)
+12:50 - 02:55 &nbsp;&nbsp;&nbsp; Open Source Software Showcase (10 minutes each)
   + TensorFlow - Rajat Monga, Google
   + PyTorch - Soumith Chintala, Facebook
   + Keras - François Chollet, Google
@@ -48,20 +48,20 @@
 
 ### Session 5: Afternoon Poster Session
 
-2:55 - 03:40 &nbsp;&nbsp;&nbsp;    Posters & Coffee
+02:55 - 03:40 &nbsp;&nbsp;&nbsp;    Posters & Coffee
 
 ---
 
 ### Session 6: Rethinking ML Infrastructure (Chair: Aparna Lakshmi Ratan)
 
-3:40 - 4:10 &nbsp;&nbsp;&nbsp;    Keynote 3: Infrastructure and Systems for Applied Machine Learning at Facebook, Kim Hazelwood, Facebook
+03:40 - 04:10 &nbsp;&nbsp;&nbsp;    Keynote 3: Infrastructure and Systems for Applied Machine Learning at Facebook, Kim Hazelwood, Facebook
 
-4:10 - 4:30 &nbsp;&nbsp;&nbsp;    Contributed Talk: Accelerating Deep Learning Workloads Through Efficient Multi-Model Execution, Deepak Narayanan, Stanford
+04:10 - 04:30 &nbsp;&nbsp;&nbsp;    Contributed Talk: Accelerating Deep Learning Workloads Through Efficient Multi-Model Execution, Deepak Narayanan, Stanford
 
-4:30 - 4:50 &nbsp;&nbsp;&nbsp;    Contributed Talk: Rethinking Floating Point for Deep Learning, Jeff Johnson, Facebook AI Research
+04:30 - 04:50 &nbsp;&nbsp;&nbsp;    Contributed Talk: Rethinking Floating Point for Deep Learning, Jeff Johnson, Facebook AI Research
 
-4:50 - 5:10 &nbsp;&nbsp;&nbsp;    Contributed Talk: A Case for Serverless Machine Learning, Joao Carreira, UC Berkeley
+04:50 - 05:10 &nbsp;&nbsp;&nbsp;    Contributed Talk: A Case for Serverless Machine Learning, Joao Carreira, UC Berkeley
 
 ---
 
-5:10 - 5:30 &nbsp;&nbsp;&nbsp;    Closing remarks (Aparna Lakshmi Ratan)
+05:10 - 05:30 &nbsp;&nbsp;&nbsp;    Closing remarks (Aparna Lakshmi Ratan)
