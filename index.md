@@ -21,7 +21,7 @@ We invite participation in the Systems for ML Workshop which will be held in con
 + Sarah Bird, Facebook Research <slbird@fb.com>
 + Dan Crankshaw, UC Berkeley <crankshaw@cs.berkeley.edu>
 + Joseph Gonzalez, UC Berkeley, <jegonzal@berkeley.edu>
-+ Aparna Lakshmiratan, Facebook, <aparnal@fb.com>
++ Aparna Lakshmi Ratan, Facebook, <aparnal@fb.com>
 + Siddhartha Sen, Microsoft Research, <sidsen@microsoft.com>
 
 ## Program Committee
