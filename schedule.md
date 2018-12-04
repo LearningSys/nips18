@@ -8,7 +8,7 @@
 
 09:40 - 10:00 &nbsp;&nbsp;&nbsp;     Contributed Talk: Fashionable Modeling with Flux, Mike J. Innes, Julia Computing
 
-10:00 - 10:20 &nbsp;&nbsp;&nbsp;     Contributed Talk: Model Assertions for Debugging Machine Learning, Daniel Kang, Stanford University
+10:00 - 10:20 &nbsp;&nbsp;&nbsp;     Contributed Talk: Model Assertions for Debugging Machine Learning, Daniel Kang and Deepti Raghavan, Stanford University
 
 ---
 
