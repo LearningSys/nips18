@@ -22,7 +22,7 @@
 
 ### Session 3: Large-scale ML (Chair: Joseph Gonzalez)
 
-11:40 - 12:10 &nbsp;&nbsp;&nbsp;    Keynote 2: TBD,  Aish Fenton, Netflix
+11:40 - 12:10 &nbsp;&nbsp;&nbsp;    Keynote 2: *BREAKING NEWS:* Types Found To Be Underrated,  Aish Fenton, Netflix
 
 12:10 - 12:30 &nbsp;&nbsp;&nbsp;    Contributed Talk: Parallel Training of Linear Models Without Compromising Convergence, Nikolas Ioannou, IBM Research
 
