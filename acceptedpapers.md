@@ -56,7 +56,7 @@
 
 **Benchmarking and Optimization of Gradient Boosting Decision Tree Algorithms**: Andreea Anghel (IBM Research); Nikolaos Papandreou (IBM Research Zurich); Thomas Parnell (IBM Research); Alessandro De Palma (IBM Research); Charalampos Pozidis (IBM Research Zurich)
 
-**ensmallen: a flexible C++ library for efficient function optimization**: Shikhar Bhardwaj (Delhi Technological University); Ryan Curtin (RelationalAI); Marcus Edel (Free University of Berlin); Yannis Mentekidis (None); Conrad Sanderson (NICTA)
+**ensmallen: a flexible C++ library for efficient function optimization**: Shikhar Bhardwaj (Delhi Technological University); Ryan Curtin (RelationalAI); Marcus Edel (Free University of Berlin); Yannis Mentekidis (None); Conrad Sanderson (Data61/CSIRO)
 
 **Coded Elastic Computing**: Yaoqing Yang (Carnegie Mellon University); Matteo Interlandi (Microsoft); Pulkit Grover (Carnegie Mellon University); Soummya Kar (); Saeed Amizadeh (Microsoft); Markus Weimer (Microsoft)
 
