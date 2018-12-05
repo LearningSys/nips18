@@ -4,7 +4,7 @@
 
 ### Session 1: ML Programmability (Chair: Sarah Bird)
 
-09:10 - 09:40 &nbsp;&nbsp;&nbsp;     Keynote 1: Accelerated Computing for AI, Bryan Catanzaro, NVIDIA
+09:10 - 09:40 &nbsp;&nbsp;&nbsp;     [Keynote 1: Accelerated Computing for AI, Bryan Catanzaro, NVIDIA](talks#key1)
 
 09:40 - 10:00 &nbsp;&nbsp;&nbsp;     Contributed Talk: Fashionable Modeling with Flux, Mike J. Innes, Julia Computing
 
@@ -22,7 +22,7 @@
 
 ### Session 3: Large-scale ML (Chair: Joseph Gonzalez)
 
-11:40 - 12:10 &nbsp;&nbsp;&nbsp;    Keynote 2: *BREAKING NEWS:* Types Found To Be Underrated,  Aish Fenton, Netflix
+11:40 - 12:10 &nbsp;&nbsp;&nbsp;    [Keynote 2: *BREAKING NEWS:* Types Found to Be Underrated,  Aish Fenton, Netflix](talks#key2)
 
 12:10 - 12:30 &nbsp;&nbsp;&nbsp;    Contributed Talk: Parallel Training of Linear Models Without Compromising Convergence, Nikolas Ioannou, IBM Research
 
@@ -54,7 +54,7 @@
 
 ### Session 6: Rethinking ML Infrastructure (Chair: Aparna Lakshmi Ratan)
 
-03:40 - 04:10 &nbsp;&nbsp;&nbsp;    Keynote 3: Infrastructure and Systems for Applied Machine Learning at Facebook, Kim Hazelwood, Facebook
+03:40 - 04:10 &nbsp;&nbsp;&nbsp;    [Keynote 3: Infrastructure and Systems for Applied Machine Learning at Facebook, Kim Hazelwood, Facebook](talks#key3)
 
 04:10 - 04:30 &nbsp;&nbsp;&nbsp;    Contributed Talk: Accelerating Deep Learning Workloads Through Efficient Multi-Model Execution, Deepak Narayanan, Stanford
 

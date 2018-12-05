@@ -10,7 +10,7 @@ This workshop will follow the successful model we have previously run with the M
 
 ## Call for Papers
 
-We invite participation in the Systems for ML Workshop which will be held in conjunction with NIPS 2018 in Montreal, Canada.
+We invite participation in the Systems for ML Workshop which will be held in conjunction with NeurIPS 2018 in Montreal, Canada.
 
 * **Submission Deadline:** October 19, 2018 11.59pm PST
 * **Author Notification Deadline:** ~~November 9, 2018~~ November 12, 2018

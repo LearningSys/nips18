@@ -1,5 +1,5 @@
-# Call for Papers - Systems for ML Workshop @ NIPS 2018
-We invite participation in the Systems for ML Workshop which will be held in conjunction with NIPS 2018 in on December 7, 2018 in Montreal. 
+# Call for Papers - Systems for ML Workshop @ NeurIPS 2018
+We invite participation in the Systems for ML Workshop which will be held in conjunction with NeurIPS 2018 in on December 7, 2018 in Montreal. 
 
 ## Overview
 
@@ -36,7 +36,7 @@ __Short Papers__
 Short papers can be up to 6 pages (not including references). Accepted short papers will be expected to present a poster at the workshop.
 In addition, a small number of short papers will be selected for an oral presentation at the workshop.
 
-* All submissions must be in PDF format and should follow the [NIPS 2018 format](https://nips.cc/Conferences/2018/PaperInformation/StyleFiles)
+* All submissions must be in PDF format and should follow the [NeurIPS 2018 format](https://nips.cc/Conferences/2018/PaperInformation/StyleFiles)
 * Submissions do not have to be anonymized (use the <code><span>\usepackage[preprint]{nips_2018}</span></code> option)
 * Please submit your paper using CMT: [Submission link](https://cmt3.research.microsoft.com/MLSYS2018)
 
