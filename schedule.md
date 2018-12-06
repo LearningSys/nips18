@@ -30,7 +30,7 @@
 
 ### Session 4: Open Source Software Showcase with Catered Lunch (Chair: Dan Crankshaw)
 
-12:30 - 12:45 &nbsp;&nbsp;&nbsp;    Pick up lunch. **The workshop will be providing catered lunch.**
+12:30 - 12:45 &nbsp;&nbsp;&nbsp;    Pick up lunch. **The workshop will be providing catered lunch sponsored by Facebook and Microsoft.**
 
 12:50 - 02:55 &nbsp;&nbsp;&nbsp; Open Source Software Showcase (10 minutes each)
   + TensorFlow - Rajat Monga, Google
