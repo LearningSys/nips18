@@ -1,101 +1,102 @@
-**Deequ - Data Quality Validation for Machine Learning Pipelines**: Sebastian Schelter (Apache Software Foundation); Tammo Rukat (Amazon Research); Dustin Lange (Amazon, USA); Philipp Schmidt (Amazon Research)
 
-**BlueConnect: Novel Hierarchical  All-Reduce on Multi-tired Network for Deep Learning**: Minsik Cho (IBM Research); Ulrich Finkler (IBM Research); David Kung (IBM Research)
+[**Deequ - Data Quality Validation for Machine Learning Pipelines**](assets/papers/5\\CameraReadySubmission\\deequ.pdf): Sebastian Schelter (Apache Software Foundation); Tammo Rukat (Amazon Research); Dustin Lange (Amazon, USA); Philipp Schmidt (Amazon Research)
 
-**Lipizzaner: A System That Scales Robust Generative Adversarial Network Training**: Tom Schmiedlechner (MIT CSAIL); Ignavier Ng Zhi Yong (MIT CSAIL); Abdullah Al-Dujaili (MIT CSAIL); Erik Hemberg (CSAIL); Una-May O'Reilly (MIT)
+[**BlueConnect: Novel Hierarchical  All-Reduce on Multi-tired Network for Deep Learning**](assets/papers/6\\CameraReadySubmission\\learnsys2018_blc.pdf): Minsik Cho (IBM Research); Ulrich Finkler (IBM Research); David Kung (IBM Research)
 
-**Ballet: A lightweight framework for open-source, collaborative feature engineering**: Micah J. Smith (MIT); Kelvin Lu (MIT); Kalyan Veeramachaneni (MIT)
+[**Lipizzaner: A System That Scales Robust Generative Adversarial Network Training**](assets/papers/13\\CameraReadySubmission\\lipz-sys-nips.pdf): Tom Schmiedlechner (MIT CSAIL); Ignavier Ng Zhi Yong (MIT CSAIL); Abdullah Al-Dujaili (MIT CSAIL); Erik Hemberg (CSAIL); Una-May O'Reilly (MIT)
 
-**Elastic CoCoA: Scaling In to Improve Convergence**: Michael W Kaufmann (IBM Research, Karlsruhe Institute of Technology); Thomas Parnell (IBM Research); Kornilios Kourtis (IBM Research)
+[**Ballet: A lightweight framework for open-source, collaborative feature engineering**](assets/papers/15\\CameraReadySubmission\\neurips_sysml_2018-8.pdf): Micah J. Smith (MIT); Kelvin Lu (1997); Kalyan Veeramachaneni (MIT)
 
-**Population Based Training as a Service**: Ang Li (Google DeepMind, Mountain View); Ola Spyra (DeepMind); Sagi Perel (Google); Valentin Dalibard (Google DeepMind); Max Jaderberg (Google); Chenjie Gu (Deepmind); David Budden (DeepMind); Tim Harley (); Pramod Gupta (DeepMind)
+[**Elastic CoCoA: Scaling In to Improve Convergence**](assets/papers/16\\CameraReadySubmission\\paper.pdf): Michael W Kaufmann (IBM Research, Karlsruhe Institute of Technology); Thomas Parnell (IBM Research); Kornilios Kourtis (IBM Research)
 
-**Highly Scalable Deep Learning Training System with Mixed-Precision: Training ImageNet in Four Minutes**: Xianyan Jia (Tencent Inc.); Shutao Song (Tencent Inc.); Shaohuai Shi (Hong Kong Baptist University); Wei He (Tencent Inc.); Yangzihao Wang (Tencent Inc.); Haidong Rong (Tencent Inc.); Feihu Zhou (Tencent Inc.); Liqiang Xie (Tencent Inc.); Zhenyu Guo (Tencent Inc.); Yuanzhou Yang (Tencent Inc.); Liwei Yu (Tencent Inc.); Tiegang Chen (Tencent Inc.); Guangxiao Hu (Tencent Inc.); Xiaowen Chu (Hong Kong Baptist University)
+[**Population Based Training as a Service**](assets/papers/19\\CameraReadySubmission\\PBT_NIPSworkshop2018 (7).pdf): Ang Li (Google DeepMind, Mountain View); Ola Spyra (DeepMind); Sagi Perel (Google); Valentin Dalibard (Google DeepMind); Max Jaderberg (Google); Chenjie Gu (Deepmind); David Budden (DeepMind); Tim Harley (); Pramod Gupta (DeepMind)
 
-**Dynamic Scheduling of MPI-based Distributed Deep Learning Training Jobs**: Tim P Capes (SAIC Toronto); Vishal Raheja (SAIC Toronto); Mete Kemertas (SAIC Toronto); Iqbal Mohomed (Samsung Research America)
+[**Highly Scalable Deep Learning Training System with Mixed-Precision: Training ImageNet in Four Minutes**](assets/papers/20\\CameraReadySubmission\\Training_ImageNet_in_4_minutes___NeuraIPS_2018_workshop_submission.pdf): Xianyan Jia (Tencent Inc.); Shutao Song (Tencent Inc.); Shaohuai Shi (Hong Kong Baptist University); Wei He (Tencent Inc.); Yangzihao Wang (Tencent Inc.); Haidong Rong (Tencent Inc.); Feihu Zhou (Tencent Inc.); Liqiang Xie (Tencent Inc.); Zhenyu Guo (Tencent Inc.); Yuanzhou Yang (Tencent Inc.); Liwei Yu (Tencent Inc.); Tiegang Chen (Tencent Inc.); Guangxiao Hu (Tencent Inc.); Xiaowen Chu (Hong Kong Baptist University)
 
-**Infer2Train: leveraging inference for better training of deep networks**: Elad Hoffer (Technion); Berry Weinstein (IDC); Itay Hubara (Technion); Sergei Gofman (Habana Labs); Daniel Soudry (Technion)
+[**Dynamic Scheduling of MPI-based Distributed Deep Learning Training Jobs**](assets/papers/21\\CameraReadySubmission\\nips_2018.pdf): Tim P Capes (SAIC Toronto); Vishal Raheja (SAIC Toronto); Mete Kemertas (SAIC Toronto); Iqbal Mohomed (Samsung Research America)
 
-**Learning kernels that adapt to GPU**: Siyuan Ma (The Ohio State University); Mikhail Belkin (Ohio State University)
+[**Infer2Train: leveraging inference for better training of deep networks**](assets/papers/24\\CameraReadySubmission\\Infer2Train.pdf): Elad Hoffer (Technion); Berry Weinstein (IDC); Itay Hubara (Technion); Sergei Gofman (Habana Labs); Daniel Soudry (Technion)
 
-**Accelerating Recurrent Neural Networks through Compiler Techniques and Quantization**: Li-Wen Chang (Microsoft); Yang Chen (Microsoft); Wenlei Bao (Microsoft); Amit  Agarwal  (Microsoft); Eldar Akchurin (Microsoft); Ke Deng (Microsoft); Emad Barsoum (Microsoft)
+[**Learning kernels that adapt to GPU**](assets/papers/26\\CameraReadySubmission\\EigenPro2_MLSYS.pdf): Siyuan Ma (The Ohio State University); Mikhail Belkin (Ohio State University)
 
-**Large-Batch Training for LSTM and Beyond**: Yang You (UC Berkeley); Chris Ying (Google Brain); Cho-Jui Hsieh (UCLA, Google); James Demmel (UC Berkeley); Kurt Keutzer (EECS, UC Berkeley); Jonathan Hseu (Google Brain)
+[**Accelerating Recurrent Neural Networks through Compiler Techniques and Quantization**](assets/papers/30\\CameraReadySubmission\\modelcompiler_camera_ready_no_final_flag.pdf): Li-Wen Chang (Microsoft); Yang Chen (Microsoft); Wenlei Bao (Microsoft); Amit  Agarwal  (Microsoft); Eldar Akchurin (Microsoft); Ke Deng (Microsoft); Emad Barsoum (Microsoft)
 
-**Explore-Exploit: A Framework for Interactive and Online Learning**: Honglei Liu (Facebook Conversational AI); Anuj Kumar (Facebook Conversational AI); Wenhai  Yang (Facebook Conversational AI); Benoit  Dumoulin (Facebook Conversational AI)
+[**Large-Batch Training for LSTM and Beyond**](assets/papers/32\\CameraReadySubmission\\NIPS_workshop.pdf): Yang You (UC Berkeley); Chris Ying (Google Brain); Cho-Jui Hsieh (UCLA, Google); James Demmel (UC Berkeley); Kurt Keutzer (EECS, UC Berkeley); Jonathan Hseu (Google Brain)
 
-**Dynamic Automatic Differentiation of GPU Broadcast Kernels**: Jarrett Revels (MIT)
+[**Explore-Exploit: A Framework for Interactive and Online Learning**](assets/papers/33\\CameraReadySubmission\\Explore_Exploit camera_ready.pdf): Honglei Liu (Facebook Conversational AI); Anuj Kumar (Facebook Conversational AI); Wenhai  Yang (Facebook Conversational AI); Benoit  Dumoulin (Facebook Conversational AI)
 
-**Pythia - A platform for vision and language research**: Amanpreet Singh (Facebook); Vivek Natrajan (Facebook); Yu Jiang (Facebook AI Research); Xinlei Chen (Facebook AI Research); Meet Shah (Facebook AI Research); Marcus Rohrbach (); Dhruv Batra (Facebook); Devi Parikh (Facebook)
+[**Dynamic Automatic Differentiation of GPU Broadcast Kernels**](assets/papers/34\\CameraReadySubmission\\Dynamic_AD_of_GPU_Broadcast_Kernels_SHORT.pdf): Jarrett Revels (MIT)
 
-**Rethinking floating point for deep learning**: Jeff Johnson (Facebook AI Research)
+[**Pythia - A platform for vision and language research**](assets/papers/35\\CameraReadySubmission\\Pythia___A_platform_for_vision_language_multi_modal_research.pdf): Amanpreet Singh (Facebook); Vivek Natrajan (Facebook); Yu Jiang (Facebook AI Research); Xinlei Chen (Facebook AI Research); Meet Shah (Facebook AI Research); Marcus Rohrbach (); Dhruv Batra (Facebook); Devi Parikh (Facebook)
 
-**Explain to Fix: A Framework to Interpret and Correct DNN Object Detector Predictions**: Denis A Gudovskiy (Panasonic); Alec Hodgkinson (Panasonic); Takuya Yamaguchi (Panasonic); Yasunori Ishii (Panasonic); Sotaro Tsukizawa (Panasonic)
+[**Rethinking floating point for deep learning**](assets/papers/38\\CameraReadySubmission\\deepfloat_nips_2018.pdf): Jeff Johnson (Facebook AI Research)
 
-**Adaptive Communication Strategies to Achieve the Best Error-Runtime Trade-off in Local-Update SGD**: Jianyu Wang (Carnegie Mellon University); Gauri Joshi (Carnegie Mellon University)
+[**Explain to Fix: A Framework to Interpret and Correct DNN Object Detector Predictions**](assets/papers/39\\CameraReadySubmission\\paper.pdf): Denis A Gudovskiy (Panasonic); Alec Hodgkinson (Panasonic); Takuya Yamaguchi (Panasonic); Yasunori Ishii (Panasonic); Sotaro Tsukizawa (Panasonic)
 
-**Massively Parallel Hyperparameter Tuning**: Liam Li (Carnegie Mellon University); Kevin Jamieson (U Washington); Afshin Rostamizadeh (); Ekaterina Gonina (); Moritz Hardt (University of California, Berkeley); Benjamin Recht (UC Berkeley); Ameet Talwalkar (CMU)
+[**Adaptive Communication Strategies to Achieve the Best Error-Runtime Trade-off in Local-Update SGD**](assets/papers/40\\CameraReadySubmission\\AdaptiveCommSGD (1).pdf): Jianyu Wang (Carnegie Mellon University); Gauri Joshi (Carnegie Mellon University)
 
-**Reuse in Pipeline-Aware Hyperparameter Tuning**: Liam Li (Carnegie Mellon University); Evan Sparks (Determined AI); Kevin Jamieson (U Washington); Ameet Talwalkar (CMU)
+[**Massively Parallel Hyperparameter Tuning**](assets/papers/41\\CameraReadySubmission\\parallel.pdf): Liam Li (Carnegie Mellon University); Kevin Jamieson (U Washington); Afshin Rostamizadeh (); Ekaterina Gonina (); Moritz Hardt (University of California, Berkeley); Benjamin Recht (UC Berkeley); Ameet Talwalkar (CMU)
 
-**Making Classical Machine Learning Pipelines Differentiable: A Neural Translation Approach**: Gyeong-In Yu (Seoul National University); Saeed Amizadeh (Microsoft); Byung-Gon Chun (Seoul National University); Markus Weimer (Microsoft); Matteo Interlandi (Microsoft)
+[**Reuse in Pipeline-Aware Hyperparameter Tuning**](assets/papers/42\\CameraReadySubmission\\hypeline.pdf): Liam Li (Carnegie Mellon University); Evan Sparks (Determined AI); Kevin Jamieson (U Washington); Ameet Talwalkar (CMU)
 
-**Parallel training of linear models without compromising convergence**: Nikolas Ioannou (IBM Research); Celestine Duenner (IBM Research); Kornilios Kourtis (IBM Research); Thomas Parnell (IBM Research)
+[**Making Classical Machine Learning Pipelines Differentiable: A Neural Translation Approach**](assets/papers/45\\CameraReadySubmission\\finetune.pdf): Gyeong-In Yu (Seoul National University); Saeed Amizadeh (Microsoft); Byung-Gon Chun (Seoul National University); Markus Weimer (Microsoft); Matteo Interlandi (Microsoft)
 
-**Machine Learning at Microsoft with ML.NET**: Matteo Interlandi (Microsoft); Sergiy Matusevych (Microsoft); Mikhail Bilenko (Yandex); Saeed Amizadeh (Microsoft); Shauheen Zahirazami (Microsoft); Markus Weimer (Microsoft)
+[**Parallel training of linear models without compromising convergence**](assets/papers/53\\CameraReadySubmission\\paper.pdf): Nikolas Ioannou (IBM Research); Celestine Duenner (IBM Research); Kornilios Kourtis (IBM Research); Thomas Parnell (IBM Research)
 
-**Fashionable Modelling with Flux**: Mike J Innes (Julia Computing)
+[**Machine Learning at Microsoft with ML.NET**](assets/papers/57\\CameraReadySubmission\\ML_NET_MLSYS.pdf): Matteo Interlandi (Microsoft); Sergiy Matusevych (Microsoft); Mikhail Bilenko (Yandex); Saeed Amizadeh (Microsoft); Shauheen Zahirazami (Microsoft); Markus Weimer (Microsoft)
 
-**Don’t Unroll Adjoint: Differentiating SSA-Form Programs**: Mike J Innes (Julia Computing)
+[**Fashionable Modelling with Flux**](assets/papers/58\\CameraReadySubmission\\Flux_NIPS.pdf): Mike J Innes (Julia Computing)
 
-**Deep Learning Inference on Commodity Network Interface Cards**: Giuseppe Siracusano (NEC Laboratories Europe); Davide Sanvito (Politecnico di Milano); Salvator Galea (University of Cambridge); Roberto Bifulco (NEC Laboratories Europe)
+[**Don’t Unroll Adjoint: Differentiating SSA-Form Programs**](assets/papers/59\\CameraReadySubmission\\Zygote_NIPS-2.pdf): Mike J Innes (Julia Computing)
 
-**Stochastic Gradient Push for Distributed Deep Learning**: Mahmoud Assran (McGill University/Facebook FAIR); Nicolas Loizou (University of Edinburgh); Nicolas Ballas (Facebook FAIR); Mike Rabbat (Facebook FAIR)
+[**Deep Learning Inference on Commodity Network Interface Cards**](assets/papers/60\\CameraReadySubmission\\2018_MLSys_NIPS2018_Workshop(4).pdf): Giuseppe Siracusano (NEC Laboratories Europe); Davide Sanvito (Politecnico di Milano); Salvator Galea (University of Cambridge); Roberto Bifulco (NEC Laboratories Europe)
 
-**TrIMS: Transparent and Isolated Model Sharing forLow Latency Deep Learning Inference in Function asa Service Environments**: Abdul Dakkak (UIUC); Cheng Li (UIUC); Simon  Garcia de Gonzalo (UIUC); Jinjun Xiong (IBM Thomas J. Watson Research Center); Wen-Mei Hwu (University of Illinois at Urbana-Champaign)
+[**Stochastic Gradient Push for Distributed Deep Learning**](assets/papers/63\\CameraReadySubmission\\sgp_FAIR.pdf): Mahmoud Assran (McGill University/Facebook FAIR); Nicolas Loizou (University of Edinburgh); Nicolas Ballas (Facebook FAIR); Mike Rabbat (Facebook FAIR)
 
-**Benchmarking and Optimization of Gradient Boosting Decision Tree Algorithms**: Andreea Anghel (IBM Research); Nikolaos Papandreou (IBM Research Zurich); Thomas Parnell (IBM Research); Alessandro De Palma (IBM Research); Charalampos Pozidis (IBM Research Zurich)
+[**TrIMS: Transparent and Isolated Model Sharing forLow Latency Deep Learning Inference in Function asa Service Environments**](assets/papers/65\\CameraReadySubmission\\NIPS_system_for_ml_TRIMS (1).pdf): Abdul Dakkak (UIUC); Cheng Li (UIUC); Simon  Garcia de Gonzalo (UIUC); Jinjun Xiong (IBM Thomas J. Watson Research Center); Wen-Mei Hwu (University of Illinois at Urbana-Champaign)
 
-**ensmallen: a flexible C++ library for efficient function optimization**: Shikhar Bhardwaj (Delhi Technological University); Ryan Curtin (RelationalAI); Marcus Edel (Free University of Berlin); Yannis Mentekidis (None); Conrad Sanderson (Data61/CSIRO)
+[**Benchmarking and Optimization of Gradient Boosting Decision Tree Algorithms**](assets/papers/68\\CameraReadySubmission\\boosting_paper_mlsys_neurips_2018_cr.pdf): Andreea Anghel (IBM Research); Nikolaos Papandreou (IBM Research Zurich); Thomas Parnell (IBM Research); Alessandro De Palma (IBM Research); Charalampos Pozidis (IBM Research Zurich)
 
-**Coded Elastic Computing**: Yaoqing Yang (Carnegie Mellon University); Matteo Interlandi (Microsoft); Pulkit Grover (Carnegie Mellon University); Soummya Kar (); Saeed Amizadeh (Microsoft); Markus Weimer (Microsoft)
+[**ensmallen: a flexible C++ library for efficient function optimization**](assets/papers/69\\CameraReadySubmission\\2018ensmallen.pdf): Shikhar Bhardwaj (Delhi Technological University); Ryan Curtin (RelationalAI); Marcus Edel (Free University of Berlin); Yannis Mentekidis (None); Conrad Sanderson (NICTA)
 
-**Dynamic Scheduling For Dynamic Control Flow in Deep Learning Systems**: Jinliang Wei (Carnegie Mellon University); Garth A Gibson (Carnegie Mellon University); Vijay  Vasudevan (Google Brain); Eric Xing (Petuum Inc. and CMU)
+[**Coded Elastic Computing**](assets/papers/73\\CameraReadySubmission\\Coded_Elastic_Computing__NIPS_workshop_ (3).pdf): Yaoqing Yang (Carnegie Mellon University); Matteo Interlandi (Microsoft); Pulkit Grover (Carnegie Mellon University); Soummya Kar (); Saeed Amizadeh (Microsoft); Markus Weimer (Microsoft)
 
-**Deep Neural Inspection Using DeepBase**: Eugene Wu (Columbia University); Carl Vondrick (); Yiru Chen (Columbia University); Thibault  Sellam (Columbia University); Yiliang Shi (Columbia University); Boyuan Chen (Columbia University)
+[**Dynamic Scheduling For Dynamic Control Flow in Deep Learning Systems**](assets/papers/74\\CameraReadySubmission\\paper.pdf): Jinliang Wei (Carnegie Mellon University); Garth A Gibson (Carnegie Mellon University); Vijay  Vasudevan (Google Brain); Eric Xing (Petuum Inc. and CMU)
 
-**Accelerating Deep Learning Workloads through Efficient Multi-Model Execution**: Deepak Narayanan (Stanford); Keshav Santhanam (Stanford University); Amar Phanishayee (Microsoft Research); Matei Zaharia (Stanford and Databricks)
+[**Deep Neural Inspection using DeepBase**](assets/papers/75\\CameraReadySubmission\\dnn-nips19learnsys-cr.pdf): Eugene Wu (Columbia University); Carl Vondrick (); Yiru Chen (Columbia University); Thibault  Sellam (Columbia University); Yiliang Shi (Columbia University); Boyuan Chen (Columbia University)
 
-**Training with Low-precision Embedding Tables**: Jiyan Yang (Facebook Inc.); Hector Yuen (Facebook Inc.); Jian Zhang (Stanford)
+[**Accelerating Deep Learning Workloads through Efficient Multi-Model Execution**](assets/papers/77\\CameraReadySubmission\\hivemind_camera_ready.pdf): Deepak Narayanan (Stanford); Keshav Santhanam (Stanford University); Amar Phanishayee (Microsoft Research); Matei Zaharia (Stanford and Databricks)
 
-**Analysis of the Time-To-Accuracy Metric and Entries in the DAWNBench Deep Learning Benchmark**: Cody Coleman (Stanford); Daniel Kang (Stanford University); Deepak Narayanan (Stanford); Luigi Nardi (Stanford); Tian Zhao (Stanford University); Jian Zhang (Stanford); Peter D Bailis (Stanford University); Kunle Olukotun (Stanford University); Christopher Re (Stanford University); Matei Zaharia (Stanford and Databricks)
+[**Training with Low-precision Embedding Tables**](assets/papers/78\\CameraReadySubmission\\lp_training_final_v3.pdf): Jiyan Yang (Facebook Inc.); Hector Yuen (Facebook Inc.); Jian Zhang (Stanford)
 
-**ToyBox: Better Atari Environments for Testing Reinforcement Learning Agents**: Emma Tosch (University of Massachusetts); John Foley (Smith College); Kaleigh Clary (University of Massachusetts); David Jensen (University of Massachusetts Amherst)
+[**Analysis of the Time-To-Accuracy Metric and Entries in the DAWNBench Deep Learning Benchmark**](assets/papers/81\\CameraReadySubmission\\dawnbench-nips2018-ws.pdf): Cody Coleman (Stanford); Daniel Kang (Stanford University); Deepak Narayanan (Stanford); Luigi Nardi (Stanford); Tian Zhao (Stanford University); Jian Zhang (Stanford); Peter D Bailis (Stanford University); Kunle Olukotun (Stanford University); Christopher Re (Stanford University); Matei Zaharia (Stanford and Databricks)
 
-**Image Classification at Supercomputer Scale**: Chris Ying (Google Brain); Sameer Kumar (Google, Inc.)
+[**ToyBox: Better Atari Environments for Testing Reinforcement Learning Agents**](assets/papers/83\\CameraReadySubmission\\NIPS_Systems_for_ML_Workshop_2019___ToyBox (11).pdf): Emma Tosch (University of Massachusetts); John Foley (Smith College); Kaleigh Clary (University of Massachusetts); David Jensen (University of Massachusetts Amherst)
 
-**Scalable CNN Training on Large-Scale HPC Systems**: Nikoli Dryden (University of Illinois at Urbana-Champaign); Naoya Maruyama (Lawrence Livermore National Laboratory); Tom Benson (Lawrence Livermore National Laboratory); Tim Moon (Lawrence Livermore National Laboratory); Marc Snir (University of Illinois at Urbana-Champaign); Brian Van Essen (Lawrence Livermore National Laboratory)
+[**Image Classification at Supercomputer Scale**](assets/papers/84\\CameraReadySubmission\\Ying_Kumar_Supercomputer.pdf): Chris Ying (Google Brain); Sameer Kumar (Google, Inc.)
 
-**AE: A domain-agnostic platform for adaptive experimentation**: Konstantin Kashin (Facebook); Eytan Bakshy (Facebook)
+[**Scalable CNN Training on Large-Scale HPC Systems**](assets/papers/85\\CameraReadySubmission\\sysforml-abs.pdf): Nikoli Dryden (University of Illinois at Urbana-Champaign); Naoya Maruyama (Lawrence Livermore National Laboratory); Tom Benson (Lawrence Livermore National Laboratory); Tim Moon (Lawrence Livermore National Laboratory); Marc Snir (University of Illinois at Urbana-Champaign); Brian Van Essen (Lawrence Livermore National Laboratory)
 
-**VDMS: An Efficient Big-Visual-Data Access for Machine Learning Workloads**: Luis Remis (Intel Labs); Vishakha Gupta-Cledat (Intel Labs); Christina R Strong (Intel Labs); Ragaad Altarawneh (Intel Labs)
+[**AE: A domain-agnostic platform for adaptive experimentation**](assets/papers/87\\CameraReadySubmission\\AE - NeurIPS 2018.pdf): Konstantin Kashin (Facebook); Eytan Bakshy (Facebook)
 
-**Effortless Machine Learning on TPUs with Julia**: Keno M Fischer (Julia Computing Inc); Elliot Saba (Julia Computing Inc)
+[**VDMS: An Efficient Big-Visual-Data Access for Machine Learning Workloads**](assets/papers/88\\CameraReadySubmission\\vdms.pdf): Luis Remis (Intel Labs); Vishakha Gupta-Cledat (Intel Labs); Christina R Strong (Intel Labs); Ragaad Altarawneh (Intel Labs)
 
-**Building Highly-Available Geo-Distributed Datastores for Continuous Learning**: Nitin Agrawal (Samsung Research); Ashish Vulimiri (Samsung Research)
+[**Effortless Machine Learning on TPUs with Julia**](assets/papers/91\\CameraReadySubmission\\TPU_Paper__MLSys_Submission_ (3).pdf): Keno M Fischer (Julia Computing Inc); Elliot Saba (Julia Computing Inc)
 
-**Dali: Lazy Compilation of Dynamic Computation Graphs**: Jonathan Raiman (OpenAI)
+[**Building Highly-Available Geo-Distributed Datastores for Continuous Learning**](assets/papers/95\\CameraReadySubmission\\submit.pdf): Nitin Agrawal (Samsung Research); Ashish Vulimiri (Samsung Research)
 
-**A Case for Serverless Machine Learning**: Joao Carreira (UC Berkeley); Pedro Fonseca (Purdue University); Alexey  Tumanov (UC Berkeley); Andrew M Zhang (UC Berkeley ); Randy Katz (UC Berkeley)
+[**Dali: Lazy Compilation of Dynamic Computation Graphs**](assets/papers/100\\CameraReadySubmission\\Dali__Lazy_Compilation_of_Dynamic_Computation_Graphs.pdf): Jonathan Raiman (OpenAI)
 
-**A Case for Dynamic GPU Inference Multitenancy and Scheduling**: Xiangxi Mo (UC Berkeley); Paras Jain (UC Berkeley); Harikaran Subbaraj (University of California, Berkeley); Ajay Jain (Massachusetts Institute of Technology); Alexey  Tumanov (UC Berkeley); Joseph Gonzalez (UC Berkeley); Ion Stoica (UC Berkeley)
+[**A Case for Serverless Machine Learning**](assets/papers/101\\CameraReadySubmission\\cirrus_nips_final2.pdf): Joao Carreira (UC Berkeley); Pedro Fonseca (Purdue University); Alexey  Tumanov (UC Berkeley); Andrew M Zhang (UC Berkeley ); Randy Katz (UC Berkeley)
 
-**Weight Re-Initialization through Cyclical Batch Scheduling**: Norman Mu (University of California, Berkeley); Zhewei Yao (University of California, Berkeley); Amir Gholami (UC Berkeley); Michael Mahoney ("University of California, Berkeley"); Kurt Keutzer (UC Berkeley)
+[**A Case for Dynamic GPU Inference Multitenancy and Scheduling**](assets/papers/102\\CameraReadySubmission\\GPU_Virtualization (8).pdf): Xiangxi Mo (UC Berkeley); Paras Jain (UC Berkeley); Harikaran Subbaraj (University of California, Berkeley); Ajay Jain (Massachusetts Institute of Technology); Alexey  Tumanov (UC Berkeley); Joseph Gonzalez (UC Berkeley); Ion Stoica (UC Berkeley)
 
-**Automatic Batching as a Compiler Pass in PyTorch**: James Bradbury (Google Brain); Chunli Fu (Columbia University)
+[**Weight Re-Initialization through Cyclical Batch Scheduling**](assets/papers/104\\CameraReadySubmission\\nips18_workshop (2).pdf): Norman Mu (University of California, Berkeley); Zhewei Yao (University of California, Berkeley); Amir Gholami (UC Berkeley); Michael Mahoney ("University of California, Berkeley"); Kurt Keutzer (UC Berkeley)
 
-**Lagrange Coded Computing: Optimal Design for Resiliency, Security, and Privacy**: Qian Yu (University of Southern California); Netanel Raviv (Caltech); Songze Li (University of Southern California); Seyed Mohammadreza Mousavi Kalan (University of Southern California); Mahdi Soltanolkotabi (USC); Salman Avestimehr (University of Southern California)
+[**Automatic Batching as a Compiler Pass in PyTorch**](assets/papers/107\\CameraReadySubmission\\Matchbox__LearningSys_Abstract_ (2).pdf): James Bradbury (Google Brain); Chunli Fu (Columbia University)
 
-**Model Assertions for Debugging Machine Learning**: Daniel Kang (Stanford University); Deepti Raghavan (Stanford University); Peter D Bailis (Stanford University); Matei Zaharia (Stanford and Databricks)
+[**Lagrange Coded Computing: Optimal Design for Resiliency, Security, and Privacy**](assets/papers/108\\CameraReadySubmission\\MLSYS_2018 (5).pdf): Qian Yu (University of Southern California); Netanel Raviv (Caltech); Songze Li (University of Southern California); Seyed Mohammadreza Mousavi Kalan (University of Southern California); Mahdi Soltanolkotabi (USC); Salman Avestimehr (University of Southern California)
+
+[**Model Assertions for Debugging Machine Learning**](assets/papers/109\\CameraReadySubmission\\omg-nips2018.pdf): Daniel Kang (Stanford University); Deepti Raghavan (Stanford University); Peter D Bailis (Stanford University); Matei Zaharia (Stanford and Databricks)
 
 **Just-in-Time Dynamic-Batching**: Ziheng Jiang (University of Washington); Haibin Lin (Amazon Web Services); Zhi Zhang (Amazon); Sheng Zha (Amazon Web Services)
