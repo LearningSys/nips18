@@ -5,7 +5,7 @@
 
 [**Lipizzaner: A System That Scales Robust Generative Adversarial Network Training**](assets/papers/13\\CameraReadySubmission\\lipz-sys-nips.pdf): Tom Schmiedlechner (MIT CSAIL); Ignavier Ng Zhi Yong (MIT CSAIL); Abdullah Al-Dujaili (MIT CSAIL); Erik Hemberg (CSAIL); Una-May O'Reilly (MIT)
 
-[**Ballet: A lightweight framework for open-source, collaborative feature engineering**](assets/papers/15\\CameraReadySubmission\\neurips_sysml_2018-8.pdf): Micah J. Smith (MIT); Kelvin Lu (1997); Kalyan Veeramachaneni (MIT)
+[**Ballet: A lightweight framework for open-source, collaborative feature engineering**](assets/papers/15\\CameraReadySubmission\\neurips_sysml_2018-8.pdf): Micah J. Smith (MIT); Kelvin Lu (MIT); Kalyan Veeramachaneni (MIT)
 
 [**Elastic CoCoA: Scaling In to Improve Convergence**](assets/papers/16\\CameraReadySubmission\\paper.pdf): Michael W Kaufmann (IBM Research, Karlsruhe Institute of Technology); Thomas Parnell (IBM Research); Kornilios Kourtis (IBM Research)
 
