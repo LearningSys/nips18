@@ -62,7 +62,7 @@
 
 **Dynamic Scheduling For Dynamic Control Flow in Deep Learning Systems**: Jinliang Wei (Carnegie Mellon University); Garth A Gibson (Carnegie Mellon University); Vijay  Vasudevan (Google Brain); Eric Xing (Petuum Inc. and CMU)
 
-**Deep Neural Inspection using DeepBase. **: Eugene Wu (Columbia University); Carl Vondrick (); Yiru Chen (Columbia University); Thibault  Sellam (Columbia University); Yiliang Shi (Columbia University); Boyuan Chen (Columbia University)
+**Deep Neural Inspection Using DeepBase**: Eugene Wu (Columbia University); Carl Vondrick (); Yiru Chen (Columbia University); Thibault  Sellam (Columbia University); Yiliang Shi (Columbia University); Boyuan Chen (Columbia University)
 
 **Accelerating Deep Learning Workloads through Efficient Multi-Model Execution**: Deepak Narayanan (Stanford); Keshav Santhanam (Stanford University); Amar Phanishayee (Microsoft Research); Matei Zaharia (Stanford and Databricks)
 
