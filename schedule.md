@@ -1,5 +1,7 @@
 # Schedule 
 
+## [LIVE STREAM AVAILABLE](https://www.facebook.com/mlsysworkshop/)
+
 09:00 - 09:10 &nbsp;&nbsp;&nbsp;    Opening remarks (Sarah Bird)
 
 ### Session 1: ML Programmability (Chair: Sarah Bird)
