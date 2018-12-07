@@ -33,16 +33,16 @@
 12:30 - 12:45 &nbsp;&nbsp;&nbsp;    Pick up lunch. **The workshop will be providing catered lunch sponsored by Facebook and Microsoft.**
 
 12:50 - 02:55 &nbsp;&nbsp;&nbsp; Open Source Software Showcase (10 minutes each)
-  + TensorFlow - Rajat Monga, Google
-  + PyTorch - Soumith Chintala, Facebook
-  + Keras - François Chollet, Google
-  + MXNet - Alex Smola, Amazon
-  + Chainer - Seiya Tokui, Preferred Networks
-  + Ray - Robert Nishihara, University of California, Berkeley
-  + TVM and VTA - Tianqi Chen and Thierry Moreau, University of Washington
-  + CoreML - Gaurav Kapoor, Apple
-  + ML.NET - Markus Weimer, Microsoft
-  + MLFlow - Matei Zaharia, Databricks and Stanford
+  + [TensorFlow](https://www.tensorflow.org) - Rajat Monga, Google
+  + [PyTorch](https://pytorch.org) - Soumith Chintala, Facebook
+  + [Keras](https://keras.io) - François Chollet, Google
+  + [MXNet](https://mxnet.apache.org) - Alex Smola, Amazon
+  + [Chainer](https://chainer.org) - Seiya Tokui, Preferred Networks
+  + [Ray](https://ray.readthedocs.io/en/latest) - Robert Nishihara, University of California, Berkeley
+  + [TVM and VTA](https://tvm.ai) - Tianqi Chen and Thierry Moreau, University of Washington
+  + [CoreML](https://developer.apple.com/documentation/coreml) - Gaurav Kapoor, Apple
+  + [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet) - Markus Weimer, Microsoft
+  + [MLFlow](https://mlflow.org) - Matei Zaharia, Databricks and Stanford
 
 ---
 
