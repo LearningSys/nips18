@@ -22,7 +22,7 @@
 
 ---
 
-### Session 3: Large-scale ML (Chair: Joseph Gonzalez)
+### Session 3: Large-scale ML (Chair: Aparna Lakshmi Ratan)
 
 11:40 - 12:10 &nbsp;&nbsp;&nbsp;    [Keynote 2: *BREAKING NEWS:* Types Found to Be Underrated,  Aish Fenton, Netflix](talks#key2)
 
