@@ -24,6 +24,8 @@ We invite participation in the Systems for ML Workshop which will be held in con
 + Aparna Lakshmi Ratan, Facebook, <aparnal@fb.com>
 + Siddhartha Sen, Microsoft Research, <sidsen@microsoft.com>
 
+Contact us: <machine-learning-systems-workshop@googlegroups.com>
+
 ## Program Committee
 
 + Aparna Lakshmi Ratan - *Facebook AI*
