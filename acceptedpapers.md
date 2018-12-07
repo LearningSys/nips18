@@ -45,7 +45,7 @@
 
 [**Machine Learning at Microsoft with ML.NET**](assets/papers/57CameraReadySubmissionML_NET_MLSYS.pdf): Matteo Interlandi (Microsoft); Sergiy Matusevych (Microsoft); Mikhail Bilenko (Yandex); Saeed Amizadeh (Microsoft); Shauheen Zahirazami (Microsoft); Markus Weimer (Microsoft)
 
-[**Fashionable Modelling with Flux**](assets/papers/58CameraReadySubmissionFlux_NIPS.pdf): Mike J Innes (Julia Computing)
+[**Fashionable Modelling with Flux**](assets/papers/58CameraReadySubmissionFlux_NIPS.pdf): Michael J Innes (Julia Computing); Elliot Saba (Julia Computing); Keno Fischer (Julia Computing); Dhairya Gandhi (Julia Computing); Marco Concetto Rudilosso (University College London); Neethu Mariya Joy (Birla Institute of Technology and Science); Tejan Karmali (National Institute of Technology, India); Avik Pal (Indian Institute of Technology); Viral B. Shah (Julia Computing) 
 
 [**Don’t Unroll Adjoint: Differentiating SSA-Form Programs**](assets/papers/59CameraReadySubmissionZygote_NIPS-2.pdf): Mike J Innes (Julia Computing)
 
