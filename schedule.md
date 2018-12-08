@@ -6,7 +6,7 @@
 
 ### Session 1: ML Programmability (Chair: Sarah Bird)
 
-09:10 - 09:40 &nbsp;&nbsp;&nbsp;     [Keynote 1: Accelerated Computing for AI, Bryan Catanzaro, NVIDIA](talks#key1)
+09:10 - 09:40 &nbsp;&nbsp;&nbsp;     [Keynote 1: Accelerated Computing for AI, Bryan Catanzaro, NVIDIA](talks#key1):   [Slides](slides/Catanzaro_AI_Systems_Workshop_2018.pdf)
 
 09:40 - 10:00 &nbsp;&nbsp;&nbsp;     Contributed Talk: Fashionable Modeling with Flux, Mike J. Innes, Julia Computing
 
