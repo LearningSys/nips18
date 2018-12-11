@@ -57,7 +57,7 @@
 
 [**Benchmarking and Optimization of Gradient Boosting Decision Tree Algorithms**](assets/papers/68CameraReadySubmissionboosting_paper_mlsys_neurips_2018_cr.pdf): Andreea Anghel (IBM Research); Nikolaos Papandreou (IBM Research Zurich); Thomas Parnell (IBM Research); Alessandro De Palma (IBM Research); Charalampos Pozidis (IBM Research Zurich)
 
-[**ensmallen: a flexible C++ library for efficient function optimization**](assets/papers/69CameraReadySubmission2018ensmallen.pdf): Shikhar Bhardwaj (Delhi Technological University); Ryan Curtin (RelationalAI); Marcus Edel (Free University of Berlin); Yannis Mentekidis (None); Conrad Sanderson (NICTA)
+[**ensmallen: a flexible C++ library for efficient function optimization**](assets/papers/69CameraReadySubmission2018ensmallen.pdf): Shikhar Bhardwaj (Delhi Technological University); Ryan Curtin (RelationalAI); Marcus Edel (Free University of Berlin); Yannis Mentekidis (None); Conrad Sanderson (Data61/CSIRO)
 
 [**Coded Elastic Computing**](assets/papers/73CameraReadySubmissionCoded_Elastic_Computing__NIPS_workshop_ (3).pdf): Yaoqing Yang (Carnegie Mellon University); Matteo Interlandi (Microsoft); Pulkit Grover (Carnegie Mellon University); Soummya Kar (); Saeed Amizadeh (Microsoft); Markus Weimer (Microsoft)
 
