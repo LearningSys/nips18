@@ -6,7 +6,7 @@ Training and deploying deep neural networks is computationally intensive, which 
 
 Bryan Catanzaro is VP of Applied Deep Learning Research at NVIDIA, where he leads a team solving problems in domains ranging from video games to chip design using deep learning. Bryan earned his PhD from Berkeley, where he focused on parallel computing, machine learning, and programming models. Bryan worked at Baidu to create next generation systems for training and deploying deep learning models for speech recognition. Before that, he was a researcher at NVIDIA, where he worked on programming models for parallel processors, as well as libraries for deep learning, which culminated in the creation of the widely used CUDNN library.
 
-[**Slides**](slides/Catanzaro_AI_Systems_Workshop_2018.pdf)
+[**Slides**](assets/slides/Catanzaro_AI_Systems_Workshop_2018.pdf)
 
 
 ## Keynote 2: BREAKING NEWS: Types Found to Be Underrated, Aish Fenton {#key2}
