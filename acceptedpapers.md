@@ -99,4 +99,4 @@
 
 [**Model Assertions for Debugging Machine Learning**](assets/papers/109CameraReadySubmissionomg-nips2018.pdf): Daniel Kang (Stanford University); Deepti Raghavan (Stanford University); Peter D Bailis (Stanford University); Matei Zaharia (Stanford and Databricks)
 
-**Just-in-Time Dynamic-Batching**: Sheng Zha (Amazon Web Services); Ziheng Jiang (University of Washington); Haibin Lin (Amazon Web Services); Zhi Zhang (Amazon)
+[**Just-in-Time Dynamic-Batching**](assets/papers/Just_in_time_Dynamic_Batching.pdf): Sheng Zha (Amazon Web Services); Ziheng Jiang (University of Washington); Haibin Lin (Amazon Web Services); Zhi Zhang (Amazon)
